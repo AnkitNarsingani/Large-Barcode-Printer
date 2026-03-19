@@ -4,7 +4,7 @@ A React-based web application for generating and printing barcodes with Zoho int
 
 ## 🚀 Live Demo
 
-**[View Live App](https://umanz-dev.github.io/lamxi-trading-zoho-barcode-generator)**
+**[View Live App](https://ankitnarsingani.github.io/Large-Barcode-Printer)**
 
 ## ✨ Features
 
